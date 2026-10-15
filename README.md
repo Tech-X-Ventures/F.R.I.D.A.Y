@@ -20,7 +20,7 @@ The setup keeps the app's program files in the folder you choose. FRYDAY also cr
 
 Updates are currently installed manually; FRYDAY does not update itself automatically.
 
-1. Download the newer setup file from [Releases](https://github.com/prateeksharmai8/fryday-assistant/releases).
+1. Download the newer setup file from [Releases](https://github.com/Tech-X-Ventures/F.R.I.D.A.Y/releases).
 2. Close FRYDAY before running setup.
 3. Run the newer setup and browse to the same folder as the current installation. Setup starts with a blank location field every time.
 4. Confirm the prompt to continue when the folder already contains files.
